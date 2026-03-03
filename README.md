@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou Laila 👋
 
-<!--
-**Lailatech/Lailatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Atualmente estou aprendendo programação, algoritmos e lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Tenho interesse em áreas como:
+- desenvolvimento de software
+- segurança da informação
+- desenvolvimento de jogis
+
+🚀 Meu objetivo neste semestre é aprender bem a base da programação, melhorar minha lógica e desenvolver meus primeiros projetos em C.
+
+✨ Este perfil marca o início da minha jornada na computação.👋
+
+
