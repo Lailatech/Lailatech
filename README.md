@@ -7,7 +7,7 @@
 📚 Tenho interesse em áreas como:
 - desenvolvimento de software
 - segurança da informação
-- desenvolvimento de jogis
+- desenvolvimento de jogos
 
 🚀 Meu objetivo neste semestre é aprender bem a base da programação, melhorar minha lógica e desenvolver meus primeiros projetos em C.
 
